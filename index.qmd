@@ -1,5 +1,7 @@
 ---
-title: Quarto Template
+title: ggplot2-R
 ---
 
-Quarto template Text!
+ggplot2-R is a package used for plotting
+
+by kavya durga sri, niteesha, bhavitha
