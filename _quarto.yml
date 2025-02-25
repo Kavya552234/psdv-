@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto Template"
+  title: "ggplot2-R"
   navbar:
     right:
       - href: index.qmd
